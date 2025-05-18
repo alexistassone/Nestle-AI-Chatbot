@@ -6,7 +6,7 @@
 
 **Backend (Python):**
 - Scraper: BeautifulSoup + requests
-- Vector storage: ChromaDB (for now) or Azure Cognitive Search
+- Vector storage: ChromaDB
 - Graph DB: Neo4j
 - RAG pipeline: LangChain with OpenAI API
 
